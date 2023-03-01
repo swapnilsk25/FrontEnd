@@ -1,0 +1,11 @@
+.reg {
+  background-image: linear-gradient(to right top, #4c3a43, #53404f, #58475c, #5a4f6b, #585879, #55658a, #4d729b, #4080a9, #2a95ba, #05aac4, #00bfc9, #31d3c8);
+}
+.hire-agent{
+  background-image: linear-gradient(to right top, #4c3a43, #53404f, #58475c, #5a4f6b, #585879, #55658a, #4d729b, #4080a9, #2a95ba, #05aac4, #00bfc9, #31d3c8);
+}
+.hire-form{
+  background-color: #f8f9facf;
+  font-weight: bolder;
+ 
+}

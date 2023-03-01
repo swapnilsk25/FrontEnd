@@ -1,0 +1,23 @@
+#agent{
+    align-items: center;
+    color: #FFFAAE;
+}
+  .ag-img{
+    height: 100%;
+    width: 100%;
+  }
+ .agent-img{
+      background-image: linear-gradient(to right top, #4c3a43, #53404f, #58475c, #5a4f6b, #585879, #55658a, #4d729b, #4080a9, #2a95ba, #05aac4, #00bfc9, #31d3c8);
+  }
+  .txt-decor{
+    text-Align:center;
+    color:#FFFAAE;
+    font-weight:bolder;
+    text-decoration-line:underline;
+    text-decoration-style:double;
+  }
+  .tbl_decor{
+    font-weight: bold;
+    font-size: medium;
+    color:black;
+}
